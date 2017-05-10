@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Movice"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.administrator.movieplayer.MovieType"/>
+        <mapping class="com.example.administrator.movieplayer.MovieItem"/>
+    </list>
+</litepal>
